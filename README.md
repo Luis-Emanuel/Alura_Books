@@ -1,7 +1,7 @@
 <h1 align="center">AluraBook</h1>
 <p align="center"> Pagina Web de vendas livros técnicos na área de tecnologia</p>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/43679743/210624216-660c742b-f928-4983-91ab-b9b3172bbc52.svg" width="100px" />
+<img src="https://user-images.githubusercontent.com/43679743/210624543-508e466c-56c6-48eb-aea2-5ac1df11ee7e.png" width="500px" />
 </div>	
 
  - Tecnlogias utilizadas:
