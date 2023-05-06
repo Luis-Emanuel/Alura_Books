@@ -1,7 +1,7 @@
 <h1 align="center">AlurBooKs </h1>
 <p align="center"> Pagina Web de vendas livros técnicos na área de tecnologia com intuído de ensinar reponsividade e mobile-first</p>
 <div align="center">
-<img src="https://github.com/Luis-Emanuel/AluraBook/blob/main/img/redmi/chrome-capture-2023-4-5%20(1).gif" />
+<img src="https://github.com/Luis-Emanuel/AluraBook/blob/main/img/redmi/chrome-capture-2023-4-5%20(1).gif" width="75%" />
 </div>
 ## ✔️ Técnicas e tecnologias utilizadas
 
