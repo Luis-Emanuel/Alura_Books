@@ -20,7 +20,7 @@ Utilizamos também o BEM, ela é uma convenção de nomenclatura para nomes de c
  
 ## 🔨 Funcionalidades do projeto
 
-<p align="justify">Pagina de uma loja de livros técnicos contendo um menu hambúrguer uma sessão de pesquisa de produtos, carrossel funcional com os livros destaque, sessão de tópicos e um rodapé de contato.</p>
+<p align="justify">Página de uma loja de livros técnicos contendo um menu hambúrguer uma sessão de pesquisa de produtos, carrossel funcional com os livros destaque, sessão de tópicos e um rodapé de contato.</p>
 
 ## 📁 Acesso ao projeto
 
