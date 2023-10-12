@@ -24,7 +24,7 @@ Utilizamos também o BEM, ela é uma convenção de nomenclatura para nomes de c
 
 ## 📁 Acesso ao projeto
 
-[Veja o projeto final do curso em funcionamento](https://alura-book-4d843a40q-luis-emanuel.vercel.app/).
+[Veja o projeto final do curso em funcionamento](https://alura-books-nt.vercel.app/).
 
 ## 📷FOTOS DO PROJETO
 <div align="center">
